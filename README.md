@@ -218,47 +218,59 @@ Uses Power BI AI visuals to identify hidden business patterns.
 
 # 📷 Dashboard Preview
 
-## Executive Dashboard
+## 🏠 Executive Dashboard
 
-> *(Insert Screenshot)*
-
----
-
-## Sales Analytics
-
-> *(Insert Screenshot)*
+<p align="center">
+  <img src="Screenshots/Executive dashboard.png" width="100%">
+</p>
 
 ---
 
-## Customer Analytics
+## 📈 Sales Analytics
 
-> *(Insert Screenshot)*
-
----
-
-## Product Analytics
-
-> *(Insert Screenshot)*
+<p align="center">
+  <img src="Screenshots/Sales Analytics Dashboard.png" width="100%">
+</p>
 
 ---
 
-## Geographic Dashboard
+## 👥 Customer Analytics
 
-> *(Insert Screenshot)*
-
----
-
-## Profit Analysis
-
-> *(Insert Screenshot)*
+<p align="center">
+  <img src="Screenshots/Customer Analytics Dashboard.png" width="100%">
+</p>
 
 ---
 
-## AI Insights
+## 📦 Product Analytics
 
-> *(Insert Screenshot)*
+<p align="center">
+  <img src="Screenshots/Product Analytics Dashboard.png" width="100%">
+</p>
 
 ---
+
+## 🌍 Geographic Dashboard
+
+<p align="center">
+  <img src="Screenshots/Geographic Performance Dashboard.png" width="100%">
+</p>
+
+---
+
+## 💹 Profit Analysis
+
+<p align="center">
+  <img src="Screenshots/Profit Analysis Dashboard.png" width="100%">
+</p>
+
+---
+
+## 🤖 AI Insights
+
+<p align="center">
+  <img src="Screenshots/AI Insights Dashboard.png" width="100%">
+</p>
 
 # 📁 Repository Structure
 
